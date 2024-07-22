@@ -26,7 +26,7 @@ $("#p2").click(function () {
 });
 $("#course").fadeToggle(3000);
 
-$("#car1").click(function(){
+$("#but").click(function(){
  $("#car1").animate({left: '+=800px'},1000);
 });
 });
